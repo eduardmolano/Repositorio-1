@@ -1,0 +1,42 @@
+* {
+    
+    box-sizing:border-box;
+  }
+   
+  body {
+    font-family: Arial;
+    padding: 10px;
+    background: #f1f1f1;
+  }
+  
+  
+  
+    
+  .leftcolumn{
+    float: left;
+    width: 70%;
+    border: solid;
+    position: static;
+}
+
+
+.rightcolumn {
+  float: right;
+  width: 30%;
+  border: solid;
+  position: static;
+  
+  }
+
+  .fakeimg {
+    background-color: #aaa;
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+  }
+
+  .card {
+    background-color: white;
+    padding: 20px;
+    margin-top: 20px;
+  }
